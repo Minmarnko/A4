@@ -17,7 +17,7 @@ ID - st125437
 Webapp at localhost:8501
 
 ## Usage
-cd into app folder and run 'python3 app.py'  
+cd into app folder and run 'streamlit run app.py'  
 
 ## Model evaluation and comparison
 | Model       | Training Loss | Average Cosine Similarity | Accuracy |
